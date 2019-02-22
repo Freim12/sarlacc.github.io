@@ -37,3 +37,13 @@ h4{
 ol{
 	color: #108c6b;
 }
+
+a{
+	text-decoration: none;
+	color: #10ce29;
+	font-size: 150%;
+}
+
+a:hover{
+	color: #c60db1;
+}
